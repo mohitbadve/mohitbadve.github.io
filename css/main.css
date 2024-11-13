@@ -2439,7 +2439,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /*-------- Start Banner Area ------------*/
 .banner-area {
-  background: #f9f9ff;
+  background: #eeeefd;
 }
 
 .banner-area .fullscreen {
@@ -4495,3 +4495,37 @@ dl.accordion.time-line:before {
 }
 
 /*-------- end footer Area -------------*/
+
+
+#myEducation{
+  background: #eeeefd;
+  position:relative;
+  top:195px;
+  padding: 55px;
+}
+
+#myExperience{
+  position:relative;
+  top:195px;
+  padding: 55px;
+}
+
+#myAchievements{
+  background: #eeeefd;
+  position:relative;
+  top:195px;
+  padding: 55px;
+}
+
+#myProjects{
+  position:relative;
+  top:195px;
+  padding: 55px;
+}
+
+#myPublications{
+  background: #eeeefd;
+  position:relative;
+  top:195px;
+  padding: 55px;
+}
