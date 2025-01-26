@@ -2484,6 +2484,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 	height: 500px;
 	width: 400px;
 	margin-left: auto;
+	padding-bottom: 20px;
 }
 
 .banner-right {
@@ -4501,31 +4502,31 @@ dl.accordion.time-line:before {
   background: #eeeefd;
   position:relative;
   top:195px;
-  padding: 55px;
+  padding-top: 55px;
 }
 
 #myExperience{
   position:relative;
   top:195px;
-  padding: 55px;
+  padding-top: 55px;
 }
 
 #myAchievements{
   background: #eeeefd;
   position:relative;
   top:195px;
-  padding: 55px;
+  padding-top: 55px;
 }
 
 #myProjects{
   position:relative;
   top:195px;
-  padding: 55px;
+  padding-top: 55px;
 }
 
 #myPublications{
   background: #eeeefd;
   position:relative;
   top:195px;
-  padding: 55px;
+  padding-top: 55px;
 }
